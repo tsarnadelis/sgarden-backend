@@ -1,4 +1,4 @@
-The backend of SGarden platform
+The backend of SGarden platform, used for lab purposes
 
 ## Prerequisites
 
